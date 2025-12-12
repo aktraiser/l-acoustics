@@ -1,0 +1,11 @@
+.git*
+.vscode
+.venv
+__pycache__
+*.pyc
+*.pyo
+.DS_Store
+.funcignore
+local.settings.json
+README.md
+*.sh
